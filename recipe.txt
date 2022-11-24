@@ -6,5 +6,7 @@ Chicken Fry
 Tandoori Chicken
 Beans
 Pizza
+Noodles
+Chicken Rice
 
 Thank you.
