@@ -4,5 +4,7 @@ Kheer
 Pasta
 Chicken Fry
 Tandoori Chicken
+Beans
+Pizza
 
 Thank you.
